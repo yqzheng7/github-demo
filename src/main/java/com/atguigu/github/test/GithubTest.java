@@ -7,6 +7,7 @@ public class GithubTest {
         i = 3; //update via hot-fix
         i = 4; //update via master
         i = 5; //update via hot-fix
+        i = 6; //push to GitHub
         System.out.println("i = " + i);
     }
 }
